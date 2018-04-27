@@ -1,0 +1,19 @@
+{
+  "name": "@pattern-lab/uikit-bare",
+  "version": "0.0.1",
+  "description": "![license](https://img.shields.io/github/license/pattern-lab/patternlab-node.svg)\r ![current release](https://img.shields.io/npm/v/@pattern-lab/uikit-workshop.svg)\r [![Gitter](https://img.shields.io/gitter/room/pattern-lab/frontend-viewer.svg)](https://gitter.im/pattern-lab/frontend-viewer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattern-lab/uikit-bare.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattern-lab/uikit-bare/issues"
+  },
+  "homepage": "https://github.com/pattern-lab/uikit-bare#readme"
+}
